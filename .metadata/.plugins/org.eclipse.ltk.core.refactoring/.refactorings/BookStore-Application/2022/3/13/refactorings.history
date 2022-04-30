@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;userDTO&apos; in &apos;com.BookStoreApplication.model.UserRegistration.UserRegistration(...)&apos; to &apos;user&apos;&#x0D;&#x0A;- Original project: &apos;BookStore-Application&apos;&#x0D;&#x0A;- Original element: &apos;com.BookStoreApplication.model.UserRegistration.UserRegistration(UserRegistration).userDTO&apos;&#x0D;&#x0A;- Renamed element: &apos;userDTO&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;userDTO&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.BookStoreApplication.model{UserRegistration.java[UserRegistration~UserRegistration~QUserRegistration;@userDTO!2336!2359!2353!2359!QUserRegistration;!0!true" name="user" references="true" stamp="1647791617074" version="1.0"/>
+</session>
